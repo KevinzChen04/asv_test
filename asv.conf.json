@@ -24,6 +24,7 @@
     "install_command": [],
     "uninstall_command": [],
     "build_command": [],
+    
     // List of branches to benchmark. If not provided, defaults to "master"
     // (for git) or "default" (for mercurial).
     // "branches": ["master"], // for git

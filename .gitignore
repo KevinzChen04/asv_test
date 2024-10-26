@@ -1,5 +1,4 @@
 benchmarks/
 env/
-results/
 asv Test/
 html/
