@@ -1,4 +1,7 @@
-benchmarks/
+# ignore asv environments, clone, and html
 env/
 asv Test/
 html/
+
+# ignore py cache files
+*.pyc
