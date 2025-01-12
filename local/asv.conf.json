@@ -1,4 +1,4 @@
-// ASV when target project is also avaliable locally
+// ASV when ran locally (not on cloud). Creates a cloned copy of the target repo
 {
     // The version of the config file format.  Do not change, unless
     // you know what you are doing.
