@@ -1,7 +1,8 @@
-# ignore asv environments, clone, and html
+# ignore asv environments, project, and html
 env/
-asv Test/
+scqubits/
 html/
 
 # ignore py cache files
 *.pyc
+__pycache__/
